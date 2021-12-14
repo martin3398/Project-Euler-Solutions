@@ -69,7 +69,7 @@ Problem 068:
 Problem 069:  510510  
 Problem 070:  8319823  
 Problem 071:  
-Problem 072:  
+Problem 072:  303963552391  
 Problem 073:  
 Problem 074:  
 Problem 075:  
