@@ -101,7 +101,7 @@ Problem 100:
 Problem 101:  37076114526  
 Problem 102:  228  
 Problem 103:  
-Problem 104:  
+Problem 104:  329468  
 Problem 105:  
 Problem 106:  
 Problem 107:  259679  
